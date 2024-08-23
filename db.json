@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "443c",
+      "productName": "Olma",
+      "productPrice": "3000",
+      "productType": "1",
+      "productDate": "2024-08-29"
+    },
+    {
+      "id": "7d89",
+      "productName": "Apelsin",
+      "productPrice": "7000",
+      "productType": "1",
+      "productDate": "2024-08-28"
+    },
+    {
+      "id": "6be9",
+      "productName": "Gilos",
+      "productPrice": "12000",
+      "productType": "1",
+      "productDate": "2024-08-31"
+    }
+  ]
+}
