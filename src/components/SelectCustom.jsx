@@ -1,11 +1,12 @@
 import React from 'react';
 import { Select } from 'antd';
-const SelectCustom = ({setProductType}) => {
+const SelectCustom = ({setProductType,productType}) => {
     function handleChange (id, obj) {
         setProductType(id)
     }
     return(
         <Select
+        value={productType}
         className='w-full'
         size='large'
         allowClear
